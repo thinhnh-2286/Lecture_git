@@ -1,6 +1,5 @@
 File 1 - ThinhNH
 Data add by TriemNHN
-=======
 gitFile 1 - ThinhNH
 File 1 edit - YenNT
 File 1 edit - SinhTV
@@ -9,3 +8,4 @@ File 1 edit lan 2 - ChauNNN
 File 1 edit lan 3 - ChauNNN
 File 2 edit lan 2 - SinhTV
 a Vu
+Thinh
